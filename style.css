@@ -237,7 +237,7 @@ a {
     font-size: 10px;
   }
 }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 312px) {
   .card {
     width: 270px;
     height: 420px;

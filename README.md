@@ -2,11 +2,11 @@ NFT preview card component
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
-## Screenshot
+## 📷 Screenshot
 
 ![image](./images/nft-card-ss2.png)
 
-## Table of contents
+## 💻 Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -16,34 +16,34 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-## Overview
+## 🪟 Overview
 
-### The challenge
+### 😎 The challenge
 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Links
+### 🎺 Links
 
 - Solution URL: [https://github.com/omgaikwad/nft-preview-card](https://github.com/omgaikwad/nft-preview-card)
 - Live Site URL: [https://nft-card-dev.netlify.app/](https://nft-card-dev.netlify.app/)
 
 ## My Process
 
-### Built with
+### 🔨 Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
-### What I learned
+### 📔 What I learned
 
 While doing this challenge I learnt how to make a responsive website for all device sizes using media queries, I used relative units for margins, paddings and font sizes as it helps in developing responsive website.
 
-## Author
+## 🙆‍♂️ Author
 
 - Website - [Om Gaikwad](https://omgaikwad.netlify.com/)
 - Frontend Mentor - [@omgaikwad](https://www.frontendmentor.io/profile/omgaikwad)

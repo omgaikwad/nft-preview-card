@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./images/nft-card-ss.png)
+![image](./images/nft-card-ss2.png)
 
 ### Links
 

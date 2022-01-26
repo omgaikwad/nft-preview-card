@@ -22,7 +22,7 @@ body {
   background-color: var(--body-bg-color);
 }
 
-main {
+.content {
   display: flex;
   flex-direction: column;
   margin: 0 2rem;
@@ -58,7 +58,7 @@ hr {
   color: hsl(228, 45%, 44%);
 }
 
-main img {
+.content img {
   display: inline;
 }
 
